@@ -1,0 +1,87 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    color: white;
+    font-weight: lighter;
+}
+#wrapper {
+    height: 568px;
+    width: 320px;
+    background-color: black;
+    padding: 20px 10px;
+}
+#header {
+    width: 100%;
+}
+.headerElement {
+    width: 33.33%;
+    float: left;
+    padding: 15px 0px;
+    text-align: center;
+    font-weight: bold;
+}
+.headerImage {
+    height: 25px;
+    width: 25px;
+}
+#imageOfTheDay {
+    width: 100%;
+    margin-top: 15px;
+    clear: both;
+    text-align: center;
+}
+#band {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#pickOfTheDay {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+#descriptionOfTheDay {
+    width: 100%;
+    margin-top: 10px;
+    float: left;
+    margin-bottom: 5px;
+}
+.descriptionElement {
+    width: 33.33%;
+    float: left;
+    text-align: center;
+}
+#more {
+    margin-top: 10px;
+    text-align: center;
+    float: left;
+    width: 100%;
+    font-weight: bold;
+}
+.moreBands {
+    width: 100%;
+    margin: 5px 0px;
+    float: left;
+}
+.moreElements {
+    width: 25%;
+    float: left;
+    text-align: center;
+    padding: 17px 0px;
+}
+.moreImages {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.band {
+    height: 50px;
+    width: 50px;
+    border: 1.5px solid lime;
+    border-radius: 50%;
+}
+hr {
+    border-color: lime;
+}
