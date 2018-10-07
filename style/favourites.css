@@ -1,0 +1,62 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    color: white;
+    font-weight: lighter;
+}
+#wrapper {
+    height: 568px;
+    width: 320px;
+    background-color: black;
+    padding: 20px 10px;
+}
+#header {
+    width: 100%;
+}
+.headerElement {
+    width: 33.33%;
+    float: left;
+    padding: 15px 0px;
+    text-align: center;
+    font-weight: bold;
+}
+.headerImage {
+    height: 25px;
+    width: 25px;
+}
+hr {
+    border-color: lime;
+}
+.simbol {
+    font-weight: bold;
+    width: 100%;
+    padding: 5px 0px;
+    float: left;
+    margin: 10px 0px;
+}
+.artist {
+    width: 100%;
+    float: left;
+    margin: 2.5px 0px;
+}
+.imageArtist {
+    height: 50px;
+    width: 50px;
+    border: 1.5px solid lime;
+    border-radius: 50%;
+    float: left;
+}
+.nameArtist {
+    float: left;
+    padding: 17px 17px;
+}
+.optionsArtist {
+    float: right;
+    padding: 10px 0px;
+}
+.dots {
+    height: 30px;
+    width: 30px;
+}
